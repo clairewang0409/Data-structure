@@ -1,3 +1,6 @@
+#https://www.techiedelight.com/sort-k-sorted-array/
+#https://www.geeksforgeeks.org/nearly-sorted-algorithm/
+
 import heapq
 from heapq import heappop, heappush
  
